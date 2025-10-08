@@ -1,0 +1,157 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://telenetsolutions.com/#webpage",
+      "url": "https://telenetsolutions.com/cloud-phone-systems/do-you-offer-training-for-my-staff/",
+      "name": "Do You Offer Training for My Staff?",
+      "description": "Telenet Solutions provides hands-on and remote training so your team can master every feature of your new cloud phone system, including voicemail, call forwarding, conferencing, and auto-attendants. Available for businesses in Los Angeles, Portland, and Sacramento.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://telenetsolutions.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://telenetsolutions.com/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://telenetsolutions.com/#article"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://telenetsolutions.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://telenetsolutions.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cloud Phone Systems",
+          "item": "https://telenetsolutions.com/cloud-phone-systems/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Do You Offer Training for My Staff?"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://telenetsolutions.com/#article",
+      "headline": "Do You Offer Training for My Staff?",
+      "description": "Learn how Telenet Solutions provides on-site and remote cloud phone training so your employees can confidently use voicemail, call forwarding, conferencing, and other VoIP features. Serving businesses in Los Angeles, Portland, and Sacramento.",
+      "articleSection": "Cloud Phone Systems",
+      "author": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@id": "https://telenetsolutions.com/#webpage"
+      },
+      "inLanguage": "en-US",
+      "keywords": [
+        "business VoIP training Los Angeles",
+        "hosted PBX setup Portland",
+        "cloud phone tutorial Sacramento",
+        "VoIP staff training",
+        "cloud phone system onboarding"
+      ],
+      "articleBody": "Telenet Solutions provides hands-on and remote training to ensure every employee knows how to use your new cloud phone system. Training covers voicemail, call forwarding, conferencing, auto-attendants, and troubleshooting so your staff feels confident from day one. Sessions can be held on-site or remotely, with tailored content for sales, support, and administrative teams."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://telenetsolutions.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you offer training for my staff after installation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Telenet Solutions provides on-site and remote training sessions after installation so your team can confidently use voicemail, call forwarding, conferencing, and other system features."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What topics are covered in your training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Training includes voicemail setup, call forwarding, auto-attendants, call recording, conferencing, and basic troubleshooting. Sessions are customized for different departments to match real-world workflows."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you train remote or hybrid teams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. Telenet Solutions offers secure remote training via video conference, ensuring hybrid and remote employees receive the same level of instruction as in-office staff."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does training take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most training sessions take one to two hours depending on team size and system features. Additional sessions can be scheduled as your team grows or new features are added."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://telenetsolutions.com/#organization",
+      "name": "Telenet Solutions",
+      "url": "https://telenetsolutions.com/",
+      "sameAs": [
+        "https://www.facebook.com/telenetsolutions",
+        "https://www.linkedin.com/company/telenet-solutions/"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-XXX-XXX-XXXX",
+        "contactType": "Customer Service",
+        "areaServed": "US"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://telenetsolutions.com/#website",
+      "url": "https://telenetsolutions.com/",
+      "name": "Telenet Solutions",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://telenetsolutions.com/#organization"
+      }
+    }
+  ]
+}
+</script>

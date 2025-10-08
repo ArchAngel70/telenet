@@ -1,0 +1,157 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://telenetsolutions.com/#webpage",
+      "url": "https://telenetsolutions.com/cloud-phone-systems/what-is-a-cloud-phone-system/",
+      "name": "What Is a Cloud Phone System?",
+      "description": "A cloud phone system (VoIP or hosted PBX) runs over your internet connection instead of traditional phone lines. Telenet Solutions explains how it works, its benefits, and how businesses in Los Angeles, Portland, and Sacramento can switch easily.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://telenetsolutions.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://telenetsolutions.com/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://telenetsolutions.com/#article"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://telenetsolutions.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://telenetsolutions.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cloud Phone Systems",
+          "item": "https://telenetsolutions.com/cloud-phone-systems/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What Is a Cloud Phone System?"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://telenetsolutions.com/#article",
+      "headline": "What Is a Cloud Phone System?",
+      "description": "A cloud phone system, also known as VoIP or hosted PBX, connects your business calls through the internet instead of copper phone lines. Learn how it works, why it matters, and how Telenet Solutions helps businesses in Los Angeles, Portland, and Sacramento transition seamlessly.",
+      "articleSection": "Cloud Phone Systems",
+      "author": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@id": "https://telenetsolutions.com/#webpage"
+      },
+      "inLanguage": "en-US",
+      "keywords": [
+        "cloud phone systems Los Angeles",
+        "VoIP services Portland",
+        "hosted PBX Sacramento",
+        "business VoIP installation",
+        "cloud PBX setup"
+      ],
+      "articleBody": "A cloud phone system, or hosted PBX, operates over your business internet connection rather than traditional phone lines. It routes calls through secure data centers and allows remote management, scalability, and cost savings. Telenet Solutions helps businesses transition from on-site PBX systems to modern VoIP platforms across Los Angeles, Portland, and Sacramento."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://telenetsolutions.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a cloud phone system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A cloud phone system, also known as VoIP or hosted PBX, runs over your business internet connection instead of copper phone lines. It’s managed in secure data centers for lower costs and easier scalability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does a cloud phone system work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It converts voice into digital packets sent over the internet, with call routing and storage managed in the cloud. Telenet Solutions configures and hosts these systems to ensure reliable uptime and call quality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the benefits of switching to a cloud phone system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Businesses benefit from lower upfront costs, remote accessibility, easy scaling, and advanced features like voicemail-to-email, call routing, and conferencing. Cloud systems also offer better uptime and disaster recovery."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Telenet Solutions install cloud phone systems?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Telenet Solutions provides installation, configuration, and training for cloud-based VoIP systems in Los Angeles, Portland, Sacramento, and nationwide."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://telenetsolutions.com/#organization",
+      "name": "Telenet Solutions",
+      "url": "https://telenetsolutions.com/",
+      "sameAs": [
+        "https://www.facebook.com/telenetsolutions",
+        "https://www.linkedin.com/company/telenet-solutions/"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-XXX-XXX-XXXX",
+        "contactType": "Sales",
+        "areaServed": "US"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://telenetsolutions.com/#website",
+      "url": "https://telenetsolutions.com/",
+      "name": "Telenet Solutions",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://telenetsolutions.com/#organization"
+      }
+    }
+  ]
+}
+</script>

@@ -1,0 +1,159 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://telenetsolutions.com/#webpage",
+      "url": "https://telenetsolutions.com/cloud-phone-systems/what-brands-of-phones-and-equipment-work-with-your-cloud-phone-system/",
+      "name": "What Brands of Phones and Equipment Work With Your Cloud Phone System?",
+      "description": "Telenet Solutions installs and supports leading phone system brands including Panasonic, Avaya, NEC, Jive/GoToConnect, OnSIP, Nextiva, and 3CX. Learn which system fits your business best and how our experts provide fast installation and support across Los Angeles, Portland, and Sacramento.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://telenetsolutions.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://telenetsolutions.com/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://telenetsolutions.com/#article"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://telenetsolutions.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://telenetsolutions.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cloud Phone Systems",
+          "item": "https://telenetsolutions.com/cloud-phone-systems/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What Brands of Phones and Equipment Work With Your Cloud Phone System?"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://telenetsolutions.com/#article",
+      "headline": "What Brands of Phones and Equipment Work With Your Cloud Phone System?",
+      "description": "Telenet Solutions supports a wide range of phone system brands including Panasonic, Avaya, NEC, Jive/GoToConnect, OnSIP, Nextiva, and 3CX. Discover how each system fits different business needs and how our experts provide installation, configuration, and training across Los Angeles, Portland, and Sacramento.",
+      "articleSection": "Cloud Phone Systems",
+      "author": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@id": "https://telenetsolutions.com/#webpage"
+      },
+      "inLanguage": "en-US",
+      "keywords": [
+        "Panasonic phone systems Los Angeles",
+        "3CX phone installation Portland",
+        "Nextiva VoIP setup Sacramento",
+        "Avaya installation",
+        "NEC business phone systems",
+        "Jive GoToConnect setup",
+        "OnSIP hosted PBX"
+      ],
+      "articleBody": "Telenet Solutions installs and supports the most trusted names in business communications, including Panasonic, Avaya, NEC, Jive/GoToConnect, OnSIP, Nextiva, and 3CX. Each system offers unique strengths depending on your business size, call volume, and mobility needs. Our experts evaluate your goals, configure the equipment, and provide staff training to ensure reliable performance across all offices."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://telenetsolutions.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What phone systems does Telenet Solutions install?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Telenet Solutions installs and supports Panasonic, Avaya, NEC, Jive/GoToConnect, OnSIP, Nextiva, and 3CX phone systems for businesses across the U.S. Each system is configured and tested to meet your specific communication needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use my existing phones with these systems?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In many cases, yes. If your current phones are SIP-compatible, they can often be integrated with platforms like 3CX, Nextiva, or OnSIP. Telenet Solutions will evaluate your existing equipment to ensure full compatibility."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide setup and user training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. After installation, Telenet Solutions provides hands-on or remote training so your team understands how to use voicemail, call forwarding, conferencing, and other system features efficiently."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which phone system is best for my business?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "That depends on your needs. Panasonic and NEC are great for on-site reliability, while 3CX, Nextiva, and OnSIP excel in cloud-based flexibility. Telenet Solutions helps you choose the best fit based on team size, call volume, and budget."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://telenetsolutions.com/#organization",
+      "name": "Telenet Solutions",
+      "url": "https://telenetsolutions.com/",
+      "sameAs": [
+        "https://www.facebook.com/telenetsolutions",
+        "https://www.linkedin.com/company/telenet-solutions/"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-XXX-XXX-XXXX",
+        "contactType": "Sales",
+        "areaServed": "US"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://telenetsolutions.com/#website",
+      "url": "https://telenetsolutions.com/",
+      "name": "Telenet Solutions",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://telenetsolutions.com/#organization"
+      }
+    }
+  ]
+}
+</script>

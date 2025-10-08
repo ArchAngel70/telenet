@@ -1,0 +1,157 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://telenetsolutions.com/#webpage",
+      "url": "https://telenetsolutions.com/cloud-phone-systems/can-i-keep-my-existing-business-phone-numbers-when-i-switch/",
+      "name": "Can I Keep My Existing Business Phone Numbers When I Switch?",
+      "description": "Yes, you can keep your existing business phone numbers when switching to a cloud phone system. Telenet Solutions handles the number porting process so your callers experience no disruption, serving businesses in Los Angeles, Portland, and Sacramento.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://telenetsolutions.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://telenetsolutions.com/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://telenetsolutions.com/#article"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://telenetsolutions.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://telenetsolutions.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cloud Phone Systems",
+          "item": "https://telenetsolutions.com/cloud-phone-systems/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Can I Keep My Existing Business Phone Numbers When I Switch?"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://telenetsolutions.com/#article",
+      "headline": "Can I Keep My Existing Business Phone Numbers When I Switch?",
+      "description": "Learn how businesses can keep their existing phone numbers when switching to cloud phone systems. Telenet Solutions manages the number porting process seamlessly for clients across Los Angeles, Portland, and Sacramento.",
+      "articleSection": "Cloud Phone Systems",
+      "author": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Telenet Solutions",
+        "url": "https://telenetsolutions.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@id": "https://telenetsolutions.com/#webpage"
+      },
+      "inLanguage": "en-US",
+      "keywords": [
+        "keep business phone number Los Angeles",
+        "number porting Portland",
+        "VoIP migration Sacramento",
+        "cloud phone system number transfer",
+        "business number porting service"
+      ],
+      "articleBody": "Telenet Solutions helps businesses keep their existing phone numbers when switching to cloud phone systems. We manage the entire number porting process under FCC Local Number Portability rules to ensure no downtime or disruption. Whether you’re upgrading your phone system in Los Angeles, Portland, or Sacramento, our technicians coordinate directly with your carrier so your callers continue reaching you at the same familiar numbers."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://telenetsolutions.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I keep my existing business phone numbers when switching to a cloud phone system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Telenet Solutions handles the number porting process so you can keep your existing business phone numbers with no disruption to your callers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is number porting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Number porting is the process of transferring your existing business phone numbers from your current provider to a new carrier or VoIP platform. Telenet Solutions manages this process to ensure a seamless transition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will there be downtime during the transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. We coordinate the transfer to prevent downtime, often using temporary call-forwarding so your business remains reachable throughout the transition."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is keeping my number included in the setup cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Number porting is included as part of your phone system setup when you choose Telenet Solutions as your provider."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://telenetsolutions.com/#organization",
+      "name": "Telenet Solutions",
+      "url": "https://telenetsolutions.com/",
+      "sameAs": [
+        "https://www.facebook.com/telenetsolutions",
+        "https://www.linkedin.com/company/telenet-solutions/"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://telenetsolutions.com/wp-content/uploads/telenet-logo.png"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-XXX-XXX-XXXX",
+        "contactType": "Sales",
+        "areaServed": "US"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://telenetsolutions.com/#website",
+      "url": "https://telenetsolutions.com/",
+      "name": "Telenet Solutions",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://telenetsolutions.com/#organization"
+      }
+    }
+  ]
+}
+</script>
